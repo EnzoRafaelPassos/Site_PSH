@@ -14,6 +14,10 @@
     font-size: 10px;
     
 }
+.container-left h1 > br {
+    display: none;
+    
+}
 
 .botao-left {
     padding-top: 10px;
@@ -21,7 +25,7 @@
     padding-left: 10px;
     padding-right: 10px;
     margin-top: 50px;
-
+    font-size: 10px;
 }
 
 .container-right {
@@ -69,6 +73,11 @@
     font-size: 10px;
 }
 
+.corpo-dois-texto-left p > br {
+  display: none;
+}
+
+
 
 
 .corpo-dois-img-right img {
@@ -93,13 +102,18 @@
     font-size: 15px;
     padding-top: 30px;
     margin: 10px;
-    padding-top: 15px;
+    padding-top: 5px;
 }
 
 .corpo-tres-texto-right p {
     margin-top: 10px;
     font-size: 10px;
     margin: 10px;
+    
+}
+
+.corpo-tres-texto-right p > br {
+   display: none;
     
 }
 
@@ -140,6 +154,12 @@
     margin: 10px;
 
 }
+
+.corpo-quatro-texto-left p > br{
+  display: none;
+
+}
+
 
 .corpo-quatro-botao {
     padding-top: 10px;
