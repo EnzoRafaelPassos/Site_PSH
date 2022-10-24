@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
 }
+ /* header */
+
+ .header a {
+    font-size: 25px;
+ }
 
 .corpo-inicio {
     padding-bottom: 0px;
