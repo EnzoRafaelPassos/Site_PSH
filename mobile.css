@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.corpo-inicio {
+    padding-bottom: 0px;
+    
+
+}
+
+.container-left {
+    padding-left: 30px;
+    font-size: 10px;
+    
+}
+
+.botao-left {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 50px;
+
+}
+
+.container-right {
+    padding-left: 30px;
+}
+
+.container-right img {
+    width: 100px;
+    height: 100px;
+
+}
+
+/* CORPO UM */
+
+.corpo-um h1 {
+    font-size: 20px;
+}
+.corpo-um-botao {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 180px;
+}
+
+/* CORPO DOIS */
+
+.corpo-dois{
+    padding-top: 50px;
+}
+
+.corpo-dois-texto-left {
+    margin: 10px;
+}
+
+.corpo-dois-texto-left h1 {
+    font-size: 15px;
+    padding-top: 30px;
+}
+
+.corpo-dois-texto-left p {
+    margin-top: 10px;
+    font-size: 10px;
+}
+
+
+
+.corpo-dois-img-right img {
+    width: 180px;
+    height: 160px;
+    margin: 10px;
+    
+}
+
+/* CORPO 3 */
+.corpo-tres {
+    padding-top: 100px;
+}
+.corpo-tres-img-left img {
+    width: 180px;
+    height: 160px;
+    margin: 10px;
+   
+}
+
+.corpo-tres-texto-right h1 {
+    font-size: 15px;
+    padding-top: 30px;
+    margin: 10px;
+    padding-top: 15px;
+}
+
+.corpo-tres-texto-right p {
+    margin-top: 10px;
+    font-size: 10px;
+    margin: 10px;
+    
+}
+
+
+/* copro 4 */
+
+.corpo-quatro {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.corpo-quatro-img-right img {
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.corpo-quatro-texto-left h1 {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.corpo-quatro-texto-left h2 {
+    color: #ffffff;
+    font-size: 10px;
+    font-family: 'Arial Narrow', sans-serif;
+    margin-top: 80px;
+    margin: 10px;
+}
+
+.corpo-quatro-texto-left p {
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    font-family: 'Arial Narrow ', sans-serif;
+    font-size: 10px;
+    margin: 10px;
+
+}
+
+.corpo-quatro-botao {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-bottom: 90px;
+    font-size: 10px;
+    margin: 5px;
+}
+
+/* rodape */
+.rodape {
+    padding: 10px;
+}
+
+.footer-img-left, .footer-texto-right {
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+.footer-texto-right {
+   margin: 10px;
+    
+}
+
+.footer-texto-right h1 {
+
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.footer-texto-right p {
+    font-size: 10px;
+    
+}
+
+.footer-img-left img {
+    width: 100px;
+    height: 100px;
+    margin:10px;
+    margin-bottom: 10px;
+ 
+}
+
+.footer-redes-sociais img{
+    width: 10px;
+    height: 10px;
+    margin: 10px;
+    margin-left: 0px;
+   
+}
+
+.footer-redes-sociais {
+    margin-right: 30px;
+}
+
+footer {
+    font-size: 10px;
+    padding: 10px;
+}
+
