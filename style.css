@@ -108,6 +108,7 @@ body {
     opacity: 0;
     transition: .25s .1s cubic-bezier(0, 1.07, 0, 1.02);
     margin-top: 15vh;
+    font-family: 'Arial Narrow Bold', sans-serif;;
 }
 
 .header>input:checked ~ .nav ul {
