@@ -31,8 +31,8 @@
 
 
 .corpo-inicio {
-    padding-bottom: 20px;
-    padding-top: 150px;
+    padding-bottom: 100px;
+    padding-top: 110px;
     padding-left: 0px;
     padding-right: 0px;
 }
@@ -71,19 +71,21 @@
     height: 135px;
     padding-left: 0;
     margin-left: 0;
+    margin-right: 0;
     padding-right: 0px;
 }
 
 /* CORPO UM */
 .corpo-um {
   white-space:  nowrap;
+  padding-top: 0;
 }
 
 .corpo-um h1 {
     font-size: 20px;
+   
+    margin: 0px;
     padding-top: 100px;
-    margin: 30px;
-    padding: px;
     
 }
 
@@ -106,6 +108,7 @@
     padding: 0px;
     margin: 0;
     padding-bottom: 50px;
+   
     
 }
 
@@ -140,9 +143,9 @@
 
 
 .corpo-dois-img-right img {
-    width: 160px;
-    height: 140px;
-    margin: 0px;
+    width: 140px;
+    height: 120px;
+    margin: 10px;
     padding: 0;
     margin-top: 30px;
 
@@ -159,9 +162,9 @@
 }
 
 .corpo-tres-img-left img {
-    width: 180px;
-    height: 160px;
-    margin: 5px;
+    width: 140px;
+    height: 120px;
+    margin: 10px;
     padding: 0;
     margin-top: 60px;
 }
@@ -204,9 +207,10 @@
 .corpo-quatro-img-right img {
     width: 180px;
     height: 180px;
-    margin: 5px;
+    margin: 0px;
     padding: 0;
     margin-top: 60px;
+    
 }
 
 
@@ -214,7 +218,7 @@
 .corpo-quatro-texto-left h1 {
     font-size: 25px;
     padding-top: 30px;
-    margin: 5px;
+    margin: 10px;
     padding: 5px;
 }
 
@@ -227,7 +231,7 @@
 }
 
 .corpo-quatro-texto-left p h1 {
-    margin: 25px;
+    margin: 0px;
     
 }
 
@@ -236,9 +240,9 @@
 .corpo-quatro-texto-left p {
     margin-top: 10px;
     font-size: 15px;
-    padding: 10px;
+    
    margin-bottom: 50px;
-
+    margin: 10px;
 
 }
 

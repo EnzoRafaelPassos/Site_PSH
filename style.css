@@ -154,12 +154,12 @@ li {
     background-color: #02174b;
     width: 100%;
     padding-top: 200px;
-    justify-content: space-around;
+    
 }
 
 .container-left {
     padding-left: 45px;
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Arial Narrow Bold', sans-serif;
     width: 100%;
 }
@@ -178,14 +178,14 @@ li {
 }
 
 .container-right {
-    padding-left: 300px;
+    padding-left: 00px;
 
 }
 
 .container-right img {
-    width: 370px;
-    height: 370px;
-
+    width: 470px;
+    height: 470px;
+    margin-right: 150px;
 }
 
 /* corpo um */
@@ -277,12 +277,14 @@ li {
     width: 390px;
     height: 380px;
     border-radius: 30px;
+    margin: 20px;
 }
 
 .corpo-tres-texto-right h1 {
     color: #00ff7f;
     font-size: 60px;
     font-family: 'Arial Narrow Bold', sans-serif;
+    margin: 20px;
 }
 
 .corpo-tres-texto-right p {
@@ -290,7 +292,7 @@ li {
     margin-top: 50px;
     font-family: 'Arial Narrow ', sans-serif;
     font-size: 25px;
-
+    margin: 20px;
 }
 
 /* corpo quatro */
@@ -307,6 +309,8 @@ li {
 .corpo-quatro-img-right img {
     width: 500px;
     height: 500px;
+    margin: 20px;
+    margin-top: 0;
 }
 
 
@@ -316,6 +320,7 @@ li {
     font-size: 60px;
     font-family: 'Arial Narrow Bold', sans-serif;
     margin-top: 120px;
+    margin: 20px;
 }
 
 .corpo-quatro-texto-left h2 {
@@ -323,7 +328,7 @@ li {
     font-size: 25px;
     font-family: 'Arial Narrow', sans-serif;
     margin-top: 100px;
-    margin-top: 80px;
+    margin: 20px;
 }
 
 .corpo-quatro-texto-left p {
@@ -331,7 +336,7 @@ li {
     margin-top: 50px;
     font-family: 'Arial Narrow ', sans-serif;
     font-size: 25px;
-
+    margin: 20px;
 }
 
 .corpo-quatro-botao {
@@ -346,6 +351,7 @@ li {
     font-family: 'Arial Narrow Bold', sans-serif;
     margin-top: 40px;
     margin-bottom: 90px;
+    margin: 20px;
 }
 
 /* rodape */
