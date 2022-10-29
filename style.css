@@ -109,13 +109,17 @@ ul {
     transition: .25s .1s cubic-bezier(0, 1.07, 0, 1.02);
     margin-top: 15vh;
     font-family: 'Arial Narrow Bold', sans-serif;
-    ;
+   visibility: hidden;
 }
+
+
+
 
 .header>input:checked~.nav ul {
     opacity: 1;
-
+    visibility: visible;
 }
+
 
 
 .nav a {
