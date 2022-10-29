@@ -194,16 +194,17 @@
     padding-top: 50px;
     padding-left: 0px;
     padding-right: 0px;
-    padding: 10px;
+    padding: 0px;
     margin: 0px;
     padding-bottom: 100px;
+    padding-top: 50px;
 }
 
 
 .corpo-quatro-img-right img {
     width: 180px;
     height: 180px;
-    margin: 10px;
+    margin: 5px;
     padding: 0;
     margin-top: 60px;
 }
@@ -214,6 +215,7 @@
     font-size: 25px;
     padding-top: 30px;
     margin: 5px;
+    padding: 5px;
 }
 
 .corpo-quatro-texto-left h2 {
@@ -234,7 +236,7 @@
 .corpo-quatro-texto-left p {
     margin-top: 10px;
     font-size: 15px;
-    margin: 5px;
+    padding: 10px;
    margin-bottom: 50px;
 
 
