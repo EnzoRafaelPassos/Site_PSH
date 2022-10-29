@@ -398,6 +398,9 @@ li {
     height: 30px;
     margin: 10px;
 }
+.footer-redes-sociais span {
+   visibility: hidden;
+}
 
 .footer-redes-sociais {
     margin-left: 30%;
